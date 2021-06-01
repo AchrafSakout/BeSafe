@@ -1,0 +1,16 @@
+activity_authentication:
+***********************
+Email		: email_Et_In
+Password	: password_Et_In
+Forget password	: forgetPass_Tv_In
+SIGN UP		: Btn_signUp_In
+SIGN IN		: btn_signIn_In
+_________________________________________
+
+activity_enregistrement:
+************************
+Full name	: fullName_Et_Up
+Email		: email_Et_Up
+Password	: password_Et_Up
+Confirm Password: confirmPassword_Et_Up
+SIGN UP		: btn_signUp_Up

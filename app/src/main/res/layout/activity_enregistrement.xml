@@ -29,7 +29,7 @@
         android:orientation="vertical">
 
         <EditText
-            android:id="@+id/fullName_et"
+            android:id="@+id/fullName_Et_Up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
@@ -45,7 +45,7 @@
 
 
         <EditText
-            android:id="@+id/email_et"
+            android:id="@+id/email_Et_Up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
@@ -60,7 +60,7 @@
             android:textSize="16sp" />
 
         <EditText
-            android:id="@+id/password_et"
+            android:id="@+id/password_Et_Up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
@@ -75,7 +75,7 @@
             android:textSize="16sp" />
 
         <EditText
-            android:id="@+id/confirmPassword_et"
+            android:id="@+id/confirmPassword_Et_Up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
@@ -91,7 +91,7 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/lyButton"
+        android:id="@+id/btn_signUp_Up"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="2"

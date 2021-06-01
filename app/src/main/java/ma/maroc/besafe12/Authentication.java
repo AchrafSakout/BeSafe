@@ -13,7 +13,7 @@ public class Authentication extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_authentication);
-        btn_signUp=findViewById(R.id.toto);
+        btn_signUp=findViewById(R.id.Btn_signUp_In);
 
         btn_signUp.setOnClickListener(v -> startActivity(new Intent(Authentication.this,Enregistrement.class)));
     }
