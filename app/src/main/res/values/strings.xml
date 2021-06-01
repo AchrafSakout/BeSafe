@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Be Safe</string>
+    <string name="Sign_up_UP">SIGN UP</string>
+    <string name="Sign_up_LO">Sign up</string>
+    <string name="Sign_in_UP">SIGN IN</string>
+    <string name="Sign_in_LO">Sign in</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Forget_password">Forget password ?</string>
+</resources>
